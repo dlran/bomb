@@ -1,0 +1,29 @@
+{
+  "name": "pill",
+  "version": "1.0.0",
+  "description": "date gear plugin",
+  "main": "dist/pill.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlran/pill.git"
+  },
+  "keywords": [
+    "date"
+  ],
+  "author": "dlran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dlran/pill/issues"
+  },
+  "homepage": "https://github.com/dlran/pill#readme",
+  "devDependencies": {
+    "@rollup/plugin-buble": "^0.21.3",
+    "javascript-obfuscator": "^2.7.1",
+    "rimraf": "^3.0.2",
+    "rollup": "^2.15.0",
+    "rollup-plugin-javascript-obfuscator": "^1.0.4",
+    "rollup-plugin-uglify": "^6.0.4",
+    "uglify-js": "^3.9.4"
+  }
+}
