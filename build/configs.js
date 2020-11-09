@@ -25,6 +25,9 @@ const JSOptions = {
         shuffleStringArray: true,
         splitStrings: true,
         stringArrayThreshold: 1,
+        stringArrayEncoding: ['base64'],
+        rotateStringArray: true,
+        stringArray: true,
         // debugProtection: true,
         selfDefending: true
       })
