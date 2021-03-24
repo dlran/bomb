@@ -1,7 +1,7 @@
 {
   "name": "pill",
   "version": "1.0.0",
-  "description": "date gear plugin",
+  "description": "cpu performance optimization plugin",
   "main": "dist/pill.js",
   "scripts": {},
   "repository": {
@@ -11,7 +11,7 @@
   "keywords": [
     "date"
   ],
-  "author": "dlran",
+  "author": "nar",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dlran/pill/issues"
